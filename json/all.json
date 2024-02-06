@@ -1,0 +1,51 @@
+[
+    {
+        "url": "/",
+        "img": "assets/img/apps/chimera.png",
+        "name": "chimera",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=http://ikurd0.tk/plists/unc0ver.plist",
+        "img": "assets/img/apps/unc0ver.png",
+        "name": "unc0ver",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=http://ikurd0.tk/plists/fb.plist",
+        "img": "assets/img/apps/fb.jpg",
+        "name": "facebook++",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=http://ikurd0.tk/plists/unc0ver.plist",
+        "img": "assets/img/apps/ig.png",
+        "name": "instagram++",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "itms-services://?action=download-manifest&url=http://ikurd0.tk/plists/tiktok.plist",
+        "img": "assets/img/apps/tiktok.png",
+        "name": "tiktok++",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "/",
+        "img": "assets/img/apps/Kinemaster.png",
+        "name": "kinemaster",
+        "sub": "Tweaked",
+        "note": "note"
+    },
+    {
+        "url": "/",
+        "img": "assets/img/apps/cutet.jpg",
+        "name": "cute",
+        "sub": "Tweaked",
+        "note": "note"
+    }
+]
